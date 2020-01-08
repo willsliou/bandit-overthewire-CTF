@@ -126,13 +126,13 @@ bandit4@bandit:~/inhere$ file ./*
 ./-file08: data
 ./-file09: data
 bandit4@bandit:~/inhere$ cat ./-file07
-koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+Found: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
 # L5
 ssh bandit5@bandit.labs.overthewire.org -p2220
 bandit5@bandit:~/inhere/maybehere07$ cat ./spaces\ file2
 
-DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+Found: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 
 Undestand: how to use find command
 find -type
@@ -141,3 +141,5 @@ find -exec
 
 # L6
  ssh bandit6@bandit.labs.overthewire.org -p2220
+ 
+ Found: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
