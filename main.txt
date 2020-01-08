@@ -142,4 +142,12 @@ find -exec
 # L6
  ssh bandit6@bandit.labs.overthewire.org -p2220
  
+ Used find
  Found: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+
+
+# L7
+ssh bandit7@bandit.labs.overthewire.org -p2220
+
+Used grep
+Found: cvX2JJa4CFALtqS87jk27qwqGhBM9plV
